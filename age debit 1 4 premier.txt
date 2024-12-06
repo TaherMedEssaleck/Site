@@ -1,0 +1,8 @@
+age debit 1 : 4 premier collonne ,example : le compte 00005 le date est 30,09,2019
+
+classificatuion age debit P: les entrees agedbit1 et classe compte debiteur .
+
+impaye : compte 521 : le date 23/06/2023
+
+
+decouvert si ajout + mvtc positive classe A
